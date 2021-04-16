@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Aaditya Arya</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Dynalight&family=Kaushan+Script&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&display=swap" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="top">
+        <img class="top-cloud" src="images/cloud.svg" alt="cloud">
+        <h2 class="top-intro">I'm Arya</h2>
+        <h3 class="small-intro">a front end developer</h3>
+        <img class="bottom-cloud" src="images/cloud.svg" alt="cloud">
+        <img class="mountain" src="images/land.svg" alt="mountain">
+    </div>
+    <div class="mid">
+      <img id="my" src="images/circle-cropped.png" alt="Aaditya Arya" style="width: 13rem">
+      <h1>Hey!</h1>
+      <p>I'm Aaditya Arya, a web and app developer from India. I love working on the new ideas and bring them to life.</p>
+      <h1 class="skill">What I can do</h1>
+    </div>
+      <div class="about-skill">
+        <img class="flutter" src="images/icons8-flutter-100.png"/>
+        <h1 class="name">Flutter</h1>
+        <p class="one" >I like to keep it simple. My goals are to focus on typography, content and conveying the message that you want to send through your app.</p>
+        <img class="coding" src="images/icons8-laptop-coding-100.png" alt="">
+        <h1 class="w-b">Web Development</h1>
+        <p class="two" >I'm a developer, so I know how to create your website to run across devices using the latest technologies available.</p>
+    </div>
+    <div class="bottom">
+      <h1 class="con">I can Help!</h1>
+      <h1 class="htwo">I'm Working as a Freelancer Now.</h1>
+      <div class="something">
+        <p>I can help you in make your Dream project come to life. Together we can do this.</p>
+      </div>
+      <button class="b-one"type="button">Message Me</button>
+      <h6>© 2021 Aaditya Arya. All rights reserved.</h

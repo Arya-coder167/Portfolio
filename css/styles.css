@@ -1,0 +1,161 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+
+.top{
+  background-color: #e0ebe8;
+  position: relative;
+  padding-top: 9.8rem;
+  margin-bottom: 1.8rem;
+
+}
+
+h1{
+  color: #45b29a;
+
+}
+
+
+p{
+  color: #45b29a;
+  font-size: 1.5rem;
+  text-align: center;
+  display: block;
+  line-height: 1.5;
+  font-weight: lighter;
+}
+
+ h2{
+   margin-top: 0;
+   color: #45b29a;
+   font-family: 'Josefin Sans', sans-serif;
+ }
+
+ .top-intro{
+   color: #45b29a;
+   font-family: 'Dynalight', cursive;
+   font-size: 6em;
+   font-weight: lighter;
+   margin-bottom: 0.5rem;
+ }
+.small-intro{
+  color: #45b29a;
+  margin-top: 0;
+  margin-bottom: 4.5rem;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.5rem;
+}
+
+
+.top-cloud{
+  position: absolute;
+  right: 10em;
+  top: 6em;
+
+}
+.bottom-cloud{
+  position: absolute;
+  left: 10rem;
+}
+
+.mid{
+  color: white;
+  margin: auto;
+  width: 32%;
+  align-items: center;
+}
+
+.my{
+  align-items: center;
+}
+
+.skill{
+  font-size: 3rem;
+  font-weight:500;
+  margin: 8rem 0 7rem 0;
+  font-family: 'Playfair Display', serif;
+}
+
+.about-skill{
+  width: 60%;
+  text-align: left;
+  margin: auto;
+}
+
+
+.flutter{
+  float: left;
+  margin-right: 3rem;
+  width: 17%;
+}
+
+.name{
+  margin-bottom: 0.4rem;
+
+}
+
+.one{
+  text-align: left;
+  margin-bottom: 8rem;
+  margin-top: 0.8rem;
+}
+
+.w-b{
+  text-align: right;
+  margin-bottom: 0.4rem;
+}
+
+.two{
+  text-align: right;
+  margin-top: 0.8rem;
+}
+
+.coding{
+  width: 17%;
+  float: right;
+  margin-left: 3rem;
+}
+
+.bottom{
+  background-color: #e0ebe8;
+  margin-top: 8rem;
+  margin-bottom: 0;
+}
+.con{
+  padding-top: 4rem;
+  padding-bottom: 5rem;
+}
+
+.htwo{
+  font-family: 'Josefin Sans', sans-serif;
+  padding-bottom: 4rem;
+}
+
+.something{
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+/*b-one{
+  padding: 1rem 1.5rem;
+}
+*/
+button{
+  margin-top: 5rem;
+  margin-bottom: 6rem;
+  background-color: #45b29a;
+  border: none;
+  color: white;
+  text-align: center;
+  padding: 1rem 1.5rem;
+  font-size: 20px;
+
+}
+
+h6{
+  color: #45b29a;
+  padding-bottom: 2.5rem;
+  margin: 0;
+}
